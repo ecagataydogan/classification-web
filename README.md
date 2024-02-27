@@ -2,7 +2,13 @@
 
 ## Purpose
 The aim of the project is to access a model on the web that can predict which sustainable development goal an article can be associated with.
-For more info about sustainable development goals,  [visit]([https://www.google.com](https://sdgs.un.org/goals)https://sdgs.un.org/goals)
+
+For more info about sustainable development goals,   [visit this website](https://sdgs.un.org/goals)
+
+
+
+
+
 
 ## Example Usage
 
