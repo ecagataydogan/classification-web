@@ -27,7 +27,7 @@ By entering the title, abstract and author's keywords of the article, you can ge
 - FastAPI
 ### Frontend
 - React + Vite
-### Model (more info checkout my [repo]([https://www.google.com](https://sdgs.un.org/goals)https://sdgs.un.org/goals))
+### Model (more info checkout my [repo](https://github.com/ecagataydogan/sdg-classification-model)
 - Python
 - Transformers
 - Pytorch
